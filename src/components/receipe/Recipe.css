@@ -85,7 +85,17 @@
 
 
 .dropdown{
-    height: 30px;
-    width: 150px;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-color: black;
     
+}
+
+.labels{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    margin-right: 10px;
 }

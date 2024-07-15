@@ -9,7 +9,7 @@ body {
   /* Contact page wrapper */
   .contact-page-wrapper {
     padding: 50px;
-    background-color: #f5f5f5; 
+    background-color: #f5f5f5; /* Example background color */
     text-align: center;
     margin-top: 200px;
   }
@@ -25,11 +25,11 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 30px;
-    position: relative; 
+    position: relative; /* Ensure relative positioning for the container */
   }
   
   .contact-form-container input {
-    padding: 10px 80px 10px 10px; 
+    padding: 10px 80px 10px 10px; /* Add padding-right to make space for the button */
     font-size: 16px;
     border: 2px solid #ccc;
     border-radius: 5px;
@@ -47,12 +47,12 @@ body {
     right: 0;
     top: 0;
     bottom: 0;
-    padding: 0 20px; 
+    padding: 0 20px; /* Adjust padding to fit within the input */
     font-size: 16px;
     color: #fff;
-    background-color: #007bff; 
+    background-color: #007bff; /* Example button color */
     border: none;
-    border-radius: 0 5px 5px 0; 
+    border-radius: 0 5px 5px 0; /* Rounded corners on the right side */
     cursor: pointer;
     transition: background-color 0.3s ease;
     display: flex;
@@ -60,6 +60,6 @@ body {
   }
   
   .secondary-button:hover {
-    background-color: #0056b3; 
+    background-color: #0056b3; /* Example hover color */
   }
   

@@ -8,7 +8,7 @@ body {
   
   /* Footer wrapper */
   .footer-wrapper {
-    background-color: #333; 
+    background-color: #333; /* Example background color */
     color: #fff;
     padding: 50px 20px;
     text-align: center;
@@ -24,14 +24,14 @@ body {
   }
   
   .footer-logo-container img {
-    width: 150px; 
+    width: 150px; /* Adjust as needed */
     margin-bottom: 20px;
   }
   
   .footer-icons {
     display: flex;
     gap: 15px;
-    font-size: 24px; 
+    font-size: 24px; /* Adjust icon size as needed */
   }
   
   .footer-icons > * {
@@ -40,7 +40,7 @@ body {
   }
   
   .footer-icons > *:hover {
-    color: #007bff;
+    color: #007bff; /* Example hover color */
   }
   
   /* Footer section two */
@@ -64,9 +64,10 @@ body {
   }
   
   .footer-section-columns span:hover {
-    color: #007bff;
+    color: #007bff; /* Example hover color */
   }
   
+  /* Responsive design */
   @media (max-width: 768px) {
     .footer-section-two {
       flex-direction: column;

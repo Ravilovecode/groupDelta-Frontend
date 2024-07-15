@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import BannerImage from "./home-banner-image.png";
-
+import ArrowForwardOutlinedIcon from '@mui/icons-material/ArrowForwardOutlined';
 
 
 const Home = () => {
@@ -17,7 +17,7 @@ const Home = () => {
                 <p>lorem ipsum dolor sit amet lorem ipsum dolor sit amet </p>
                 <button className='btns'>
                     <p style={{ display: 'inline', marginRight: '10px' }}>Explore Now</p>
-                    <ArrowForwardOutlinedIcon style={{ verticalAlign: 'middle' }} />
+                    
                 </button>
 
 
