@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import BannerImage from "./home-banner-image.png";
-import ArrowForwardOutlinedIcon from '@mui/icons-material/ArrowForwardOutlined';
+
 
 
 const Home = () => {
